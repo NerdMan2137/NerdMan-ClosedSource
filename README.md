@@ -24,7 +24,8 @@ To stop it:
 - **Linux**: use `xkill` or a similar tool
 - **Windows**: use Task Manager
   
-![NedTroll_Image](https://github.com/user-attachments/assets/2c1abba8-40c3-4d78-9e99-7305d3a42997)
+![NedTroll_Image](https://github.com/user-attachments/assets/6a61e99e-6c94-4d17-95b0-77ee6ef877b1)
+
 
 ⚠️ **This tool is for educational purposes only and should not be used to annoy or disrupt others.**
 ##
@@ -34,7 +35,8 @@ Spam-sending tools written in Python. You can customize:
 - message content
 - number of repetitions  
 
-![NedSpamy_Image](https://github.com/user-attachments/assets/399e6cbf-d8af-4db3-8e74-332aa2434ab0)
+![NedSpamy_Image](https://github.com/user-attachments/assets/d1eccfca-098b-49f3-bc28-61f1c103a636)
+
 
 
 Version 2 includes a better GUI and more features. Press `ESC` during spam to stop the process.
@@ -46,7 +48,8 @@ A basic macro that simulates key presses by repeatedly typing a chosen letter.
 Created to learn about keyboard automation in Python.  
 It is a simple proof-of-concept, not a production-grade tool.
 
-![NedGrab_Image](https://github.com/user-attachments/assets/a57c2b02-e9a2-4a13-9cf0-15f4826765c1)
+![NedGrab_Image](https://github.com/user-attachments/assets/6d663751-b6be-4484-a533-7fdb05f6772b)
+
 
 ##
 ### 📷 NedGraph
@@ -55,7 +58,8 @@ Features:
 - Optional color support
 - Adjustable intensity and resolution  
 
-![NedGraph_Image](https://github.com/user-attachments/assets/dfc30732-a6ca-492e-a3db-523a8996d868)
+![NedGraph_Image](https://github.com/user-attachments/assets/58195fb4-811f-440b-b7d2-65dd09126da2)
+
 
 
 Use the `help` command in the program for usage tips.
