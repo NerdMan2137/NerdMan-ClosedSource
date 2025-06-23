@@ -20,7 +20,9 @@ NedGrab is software written in Python.
 ### How to use
 
 1. Accept the terms of use.
-2. Start the program.
-3. To stop the program
-    Linux: use xkill command
-    Windows: use task manager
+2. Choose letter.
+3. Choose mode.
+4. Type parameters.
+5. Start the program.
+
+To stop the program at any time, press `ESC`.
