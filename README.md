@@ -7,7 +7,6 @@ This repository is intended as a programming portfolio and should not be interpr
 
 ## 📑 Table of Contents
 
-- [SimulatorOfFryderyk](#-simulatoroffryderyk)
 - [NedTroll](#-nedtroll)
 - [NedSpam and NedSpamV2](#%EF%B8%8F-nedspam--nedspamv2)
 - [NedGrab](#-nedgrab)
@@ -17,20 +16,6 @@ This repository is intended as a programming portfolio and should not be interpr
 
 ## 🔐 Closed-Source Software
 
-### 🐻 SimulatorOfFryderyk
-A fan-made game created in Godot. Your task is to help Freddy escape from the place he's trapped in.  
-Made for fun and to learn the basics of 2D game development.
-### Credits:
-*video in menu game:* https://www.youtube.com/watch?v=ju8tpBkg3ZY
-
-*soundtrack 1:* https://www.youtube.com/watch?v=S1yHc4yd3WU
-
-*soundtrack 2:* https://www.youtube.com/watch?v=oiQ-Amo3zek
-
-*soundtrack 3* https://www.youtube.com/shorts/HbUXXd-XrfU 
-### Trailer:
-*trailer*: https://github.com/user-attachments/assets/7b40fcc7-6b00-43d2-bc83-fd88a1a5eb68
-##
 ### 🧌 NedTroll
 A Python program that opens a window. If you try to close it, another one will appear. This repeats endlessly.  
 This was made as a joke/demo to explore process handling and window management in Python.
