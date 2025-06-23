@@ -1,12 +1,35 @@
-NedSpam is a software writed in Python with (Version 1)tkinter and (Version 2) customtikinter.
+NedSpam is software written in Python.
 
-- How to install - 
-Linux: First, go to Releaeses, choose what version do you want, and download version with "LINUX" in name.
-       Second, add executable permission (chmod +x path/to/file).
-       Last, type (./path/to/file), or just click directly to icon.
+* Version 1 uses the `tkinter` library.
+* Version 2 uses `customtkinter`.
 
-Windows: First, go to Releaeses, choose what version do you want, and download version with "WINDOWS" in name.
-         Can be to add exception to this file, defender can delete it because it's seems a virus.
-         Last, open file, and choose "Run anyway", to allow program to run (probably there will be attention that this file can damage your computer).
+### How to install
 
-- How to use -
+**Linux:**
+
+1. Go to Releases, choose the version you want, and download the file with "LINUX" in its name.
+2. Add executable permission:
+   `chmod +x path/to/file`
+3. Run the file:
+   `./path/to/file`
+   or double-click the icon.
+
+**Windows:**
+
+1. Go to Releases, choose the version you want, and download the file with "WINDOWS" in its name.
+2. If Windows Defender blocks it, add an exception and choose "Run anyway".
+3. Open the file normally.
+
+### How to use
+
+1. Accept the terms of use.
+2. Configure your parameters.
+3. Start the program.
+
+To stop the program at any time, press `ESC`.
+
+### What is the difference between Version 1 and Version 2
+
+* Version 2 uses `customtkinter`, a more modern GUI library.
+* Version 2 has more configuration options.
+* Version 2 includes better error handling and improved mechanisms.
