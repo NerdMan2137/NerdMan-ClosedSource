@@ -17,7 +17,7 @@ NedSpam is software written in Python.
 **Windows:**
 
 1. Go to Releases, choose the version you want, and download the file with "WINDOWS" in its name.
-2. If Windows Defender blocks it, add an exception and choose "Run anyway".
+2. If Windows Defender blocks/removes it, add an exception and choose "Run anyway".
 3. Open the file normally.
 
 ### How to use
