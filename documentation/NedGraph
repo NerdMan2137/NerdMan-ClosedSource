@@ -1,0 +1,26 @@
+NedGraph is software written in Python.
+
+### How to install
+
+**Linux:**
+
+1. Go to Releases, choose the version you want, and download the file with "LINUX" in its name.
+2. Add executable permission:
+   `chmod +x path/to/file`
+3. Run the file:
+   `./path/to/file`
+
+**Windows:**
+
+1. Go to Releases, choose the version you want, and download the file with "WINDOWS" in its name.
+2. If Windows Defender blocks/removes it, add an exception and choose "Run anyway".
+3. Open the file normally.
+
+### How to use
+
+1. Paste path and hit enter.
+2. Choose if you want colours.
+2.1 Type the scale of colours (default ~1.5).
+3. Hit Enter.
+
+To exit the program, type 'exit'.
