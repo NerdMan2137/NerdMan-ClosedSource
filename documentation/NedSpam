@@ -1,2 +1,12 @@
-# NedSpam is a software writed in Python with (Version 1)tkinter and (Version 2) customtikinter.
-- 
+NedSpam is a software writed in Python with (Version 1)tkinter and (Version 2) customtikinter.
+
+- How to install - 
+Linux: First, go to Releaeses, choose what version do you want, and download version with "LINUX" in name.
+       Second, add executable permission (chmod +x path/to/file).
+       Last, type (./path/to/file), or just click directly to icon.
+
+Windows: First, go to Releaeses, choose what version do you want, and download version with "WINDOWS" in name.
+         Can be to add exception to this file, defender can delete it because it's seems a virus.
+         Last, open file, and choose "Run anyway", to allow program to run (probably there will be attention that this file can damage your computer).
+
+- How to use -
