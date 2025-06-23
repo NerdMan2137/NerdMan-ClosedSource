@@ -3,7 +3,7 @@ NedSpam is software written in Python.
 * Version 1 uses the `tkinter` library.
 * Version 2 uses `customtkinter`.
 
-### How to instal
+### How to install
 
 **Linux:**
 
